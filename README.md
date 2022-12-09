@@ -1,2 +1,2 @@
 # Python-100DayOfCode
-This is my python 100Days of coding with everyday new challenges.
+This is my 100Days of python coding with everyday new challenges.
