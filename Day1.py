@@ -1,6 +1,6 @@
 #Make use of print() 
 print("Rajat")
-print("30 November 2022")
+print("9 December 2022")
 print("I am signing up for 100 days of python challenge!")
 print("""I will make sure to spend some time every day coding along for a minimum of 10 minutes a day.
 I'll be using an amazing online IDE so Ican do
