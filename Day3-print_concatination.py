@@ -1,5 +1,6 @@
 #concatenation in print statement
 """
+Day3 Challenge
 Create these as a variable:
 A type of food,
 A type of plant,
